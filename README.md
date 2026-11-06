@@ -19,8 +19,3 @@ I am a Computer Science undergraduate student at Eötvös Loránd University (EL
 * Machine Learning & AI
 * Game Development
 
----
-
-### Contact
-
-* **LinkedIn:** [linkedin.com/in/hel5220](https://linkedin.com/in/hel5220)
